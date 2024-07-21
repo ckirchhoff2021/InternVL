@@ -163,7 +163,7 @@
     <td>2024.04.18</td>
     <td><a href="https://huggingface.co/OpenGVLab/InternVL-Chat-V1-5">🤗 link</a></td>
     <td><a href="https://modelscope.cn/models/OpenGVLab/InternVL-Chat-V1-5">🤖 link</a></td>
-    <td>支持 4K 图像；超强的 OCR 能力；在 MMMU、DocVQA、ChartQA、MathVista 等各种基准测试中，性能接近 GPT-4V 和 Gemini Pro。
+    <td>支持 4K 图像；超强的 OCR 能力；在 MMMU、DocVQA、ChartQA、MathVista 等各种基准测试中，性能接近 GPT-4V 和 Gemini Pro
   </tr>
   <tr>
     <td>InternVL&#8209;Chat&#8209;V1&#8209;2&#8209;Plus</td>
@@ -224,28 +224,28 @@
     <td>2024.04.20</td>
     <td><a href="https://huggingface.co/OpenGVLab/InternViT-6B-448px-V1-5">🤗 link</a></td>
     <td><a href="https://modelscope.cn/models/OpenGVLab/InternViT-6B-448px-V1-5">🤖 link</a></td>
-    <td>通过增量预训练支持动态分辨率和超强的OCR特征提取能力（🔥新）</td>
+    <td>通过增量预训练支持动态分辨率和超强的 OCR 特征提取能力（🔥新）</td>
   </tr>
   <tr>
     <td>InternViT&#8209;6B&#8209;448px&#8209;V1&#8209;2</td>
     <td>2024.02.11</td>
     <td><a href="https://huggingface.co/OpenGVLab/InternViT-6B-448px-V1-2">🤗 link</a></td>
     <td><a href="https://modelscope.cn/models/OpenGVLab/InternViT-6B-448px-V1-2">🤖 link</a></td>
-    <td>通过增量预训练支持448分辨率</td>
+    <td>通过增量预训练支持 448 分辨率</td>
   </tr>
   <tr>
     <td>InternViT&#8209;6B&#8209;448px&#8209;V1&#8209;0</td>
     <td>2024.01.30</td>
     <td><a href="https://huggingface.co/OpenGVLab/InternViT-6B-448px-V1-0">🤗 link</a></td>
     <td><a href="https://modelscope.cn/models/OpenGVLab/InternViT-6B-448px-V1-0">🤖 link</a></td>
-    <td>通过增量预训练支持448分辨率</td>
+    <td>通过增量预训练支持 448 分辨率</td>
   </tr>
   <tr>
     <td>InternViT&#8209;6B&#8209;224px</td>
     <td>2023.12.22</td>
     <td><a href="https://huggingface.co/OpenGVLab/InternViT-6B-224px">🤗 link</a></td>
     <td><a href="https://modelscope.cn/models/OpenGVLab/InternViT-6B-224px">🤖 link</a></td>
-    <td>InternViT-6B的第一个版本，提取自InternVL‑14B‑224px</td>
+    <td>InternViT-6B 的第一个版本，提取自 InternVL‑14B‑224px</td>
   </tr>
 </table>
 
@@ -264,7 +264,7 @@
     <td>2023.12.22</td>
     <td><a href="https://huggingface.co/OpenGVLab/InternVL-14B-224px">🤗 link</a></td>
     <td><a href="https://modelscope.cn/models/OpenGVLab/InternVL-14B-224px">🤖 link</a></td>
-    <td>视觉-语言基础模型，InternViT-6B + QLLaMA，可以用于类似CLIP的图文检索</td>
+    <td>视觉-语言基础模型，InternViT-6B + QLLaMA，可以用于类似 CLIP 的图文检索</td>
   </tr>
 </table>
 
